@@ -6,15 +6,15 @@ With a strong presence in the market for nearly three years, we are proudly reco
 
 https://inside-scripts.tebex.io/
 
+## Documentation
+
+https://inside-scripts.gitbook.io/documentation
+
 ## YouTube
 
   <p><a href="https://www.youtube.com/@inside-scripts9493">
       <img src="https://img.shields.io/youtube/channel/subscribers/UCQjLtoViEAm49G-imEL-DqA"/>
   </a></p>
-
-## Documentation
-
-https://inside-scripts.gitbook.io/documentation
 
 ## Discord
 
