@@ -16,4 +16,6 @@ https://inside-scripts.gitbook.io/documentation
 
 ## Discord
 
-<iframe src="https://discord.com/widget?id=739221590885138472&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  <p><a href="https://discord.gg/URKNMSwx5W">
+      <img src="https://img.shields.io/discord/739221590885138472?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+  </a></p>
