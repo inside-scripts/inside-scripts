@@ -8,7 +8,7 @@ https://inside-scripts.tebex.io/
 
 ## YouTube
 
-  <p><a href="https://discord.gg/URKNMSwx5W">
+  <p><a href="https://www.youtube.com/@inside-scripts9493">
       <img src="https://img.shields.io/youtube/channel/subscribers/:inside-scripts9493"/>
   </a></p>
 
