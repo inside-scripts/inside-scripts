@@ -9,7 +9,7 @@ https://inside-scripts.tebex.io/
 ## YouTube
 
   <p><a href="https://www.youtube.com/@inside-scripts9493">
-      <img src="https://img.shields.io/youtube/channel/subscribers/:UCQjLtoViEAm49G-imEL-DqA"/>
+      <img src="https://img.shields.io/youtube/channel/subscribers/UCQjLtoViEAm49G-imEL-DqA"/>
   </a></p>
 
 ## Documentation
