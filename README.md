@@ -1,15 +1,19 @@
-### Hi there 👋
+## About Us
 
+With a strong presence in the market for nearly three years, we are proudly recognized pioneers in the FiveM community. Our store is a hub for meticulously crafted scripts, compatible with the most popular engines for FiveM. We understand the dynamics of the gaming world and are committed to enhancing your server's functionality and improving players experiences.
 
-**inside-scripts/inside-scripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Store
 
-Here are some ideas to get you started:
+https://inside-scripts.tebex.io/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## YouTube
+
+https://www.youtube.com/@inside-scripts9493
+
+## Documentation
+
+https://inside-scripts.gitbook.io/documentation
+
+## Discord
+
+https://discord.gg/URKNMSwx5W
