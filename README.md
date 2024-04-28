@@ -10,14 +10,14 @@ https://inside-scripts.tebex.io/
 
 https://inside-scripts.gitbook.io/documentation
 
-## YouTube
-
-  <p><a href="https://www.youtube.com/@inside-scripts9493">
-      <img src="https://img.shields.io/youtube/channel/subscribers/UCQjLtoViEAm49G-imEL-DqA"/>
-  </a></p>
-
 ## Discord
 
   <p><a href="https://discord.gg/URKNMSwx5W">
       <img src="https://img.shields.io/discord/739221590885138472?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+  </a></p>
+
+## YouTube
+
+  <p><a href="https://www.youtube.com/@inside-scripts9493">
+      <img src="https://img.shields.io/youtube/channel/subscribers/UCQjLtoViEAm49G-imEL-DqA"/>
   </a></p>
