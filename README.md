@@ -16,4 +16,6 @@ https://inside-scripts.gitbook.io/documentation
 
 ## Discord
 
-https://discord.gg/URKNMSwx5W
+<p><a href="https://discord.gg/URKNMSwx5W">
+    <img src="https://img.shields.io/discord/739221590885138472?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+</a></p>
